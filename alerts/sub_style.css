@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+#wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#alert-letters {
+  width: 100vw;
+}
+
+#alert-text-wrap {
+  position: relative;
+  display: block;
+  opacity: 0;
+  width: 56.25vw;
+}
+
+#alert-user-name {
+  text-align: center;
+  font-size: 3em;
+  display: none;
+}
+
+#alert-message {
+  text-align: center;
+  font-size: 2em;
+}
+
+#alert-user-message {
+  text-align: center;
+  font-size: 1.25em;
+}
+
+
+.letter {
+  position: absolute;
+}
+
+.animated-letter {
+  color: #FFFFFF;
+  text-shadow: 0px 0px 1px #000, 0px 0px 2px #000, 0px 0px 3px #000, 0px 0px 4px #000, 0px 0px 5px #000;
+}
+
+.alert-text {
+  font-family: Roboto;
+  font-weight: 300;
+  color: #FFFFFF;
+  text-shadow: 0px 0px 1px #000, 0px 0px 2px #000, 0px 0px 3px #000, 0px 0px 4px #000, 0px 0px 5px #000;
+}
