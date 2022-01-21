@@ -13,3 +13,5 @@ Most of the code is basic HTML and CSS stuff, should be pretty self-explanitory.
 Just copy and paste the data in from these three files into their respective Custom Code text boxes in the StreamElements alerts menus and it should work. Do note that there's actually five custom code fields, and you'll want to delete the code out of all five, then paste the corresponding code into the HTML/CSS/JavaScript boxes and leave the other two blank (I believe they're called Fields and Data or something like that). Or at least, that's what worked best for me.
 
 That's it. Hope this is helpful to anyone who sees it. I especially hope the sub_script.js helps illustrate how one can make some moderately complex animations in JavaScript for some cool alerts. GSAP seems like a solid package that loads in a timely manner and runs pretty smooth.
+
+Preview of what the alert looks like here: https://www.youtube.com/watch?v=_-qFkocQGeU 
